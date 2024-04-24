@@ -1,7 +1,7 @@
-# To Do App
-Todo-MUI is a simple todo application built using React, Redux, and Material-UI (MUI). It allows users to add, check off, filter, and clear todo items.
+# ToDo App
+Todo-App is a simple todo application built using React, Redux, and Material-UI (MUI). It allows users to add, check off, filter, and clear todo items.
 
-![To Do App](src/images/to-do-app.png)
+![ToDo App](src/images/to-do-app.png)
 
 ### Features
 
@@ -28,7 +28,7 @@ You can also clone the project and open it in localhost, or enjoy the preview vi
 
 ### Getting Started
 
-To run Todo-MUI locally, follow these steps:
+To run Todo-App locally, follow these steps:
 1. Clone the repo: git clone https://github.com/olhasashchuk/todo_graduate_project.git
 2. Install dependencies using `npm install`
 3. Start the development server using `npm run dev` 
