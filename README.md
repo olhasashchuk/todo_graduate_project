@@ -26,6 +26,8 @@ Live view by clicking the link: https://todo-olha-sashchuk.netlify.app/
 
 You can also clone the project and open it in localhost, or enjoy the preview video below instead
 
+https://github.com/olhasashchuk/todo_graduate_project/assets/128645346/8f66c834-96c8-4908-94c7-b55414ba3aa8
+
 ### Getting Started
 
 To run Todo-App locally, follow these steps:
